@@ -1,8 +1,8 @@
-# 💫 About Me:
-🔭 Atualmente estou procurando estágio em minha área. <br>🌱 Estou estudando HTML, CSS e BootStrap.<br>📫 O meu e-mail é patrickbarden01@gmail.com.<br>
+# 💫 Olá, o meu nome é Patrick Barden.
+🔭 Atualmente estou procurando estágio na minha área. <br>🌱 Estou estudando HTML, CSS e BootStrap.<br>📫 O meu e-mail é patrickbarden01@gmail.com.<br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/1151665752714264616/1151665753867702325) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/patrick.barden.50/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/pxtrickbarden/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/1gjgqbc) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/PxtrickBarden) 
 
 # 💻 Tech Stack:
