@@ -1,5 +1,5 @@
 # Olá, o meu nome é Patrick Barden.
-🔭 Atualmente estou procurando estágio na minha área. <br>🌱 Estou estudando HTML, CSS e BootStrap.<br>📫 O meu e-mail é patrickbarden01@gmail.com.<br>
+🔭 Atualmente estou procurando estágio na minha área. <br>🌱 Estou estudando HTML, CSS, JavaScript e BootStrap.<br>📫 O meu e-mail é patrickbarden01@gmail.com.<br>
 
 
 # 🌐 Socials:
